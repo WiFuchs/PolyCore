@@ -12,4 +12,4 @@ Intended for Garmin Forerunners with a circular screen (230 and up, mostly), but
 Feel free to fork and make any changes you like, or use this repo as a starting place to make something totally different! 
 
 ### Author
-Will Fuchs
+Will Fuchs, 2018
