@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreApp.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreApp.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreApp.mc" lineNum="11" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreApp.mc" lineNum="15" pc="268435484" symbol="onStop"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreApp.mc" lineNum="19" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreApp.mc" lineNum="20" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreExercise.mc" lineNum="8" pc="268435561" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreExercise.mc" lineNum="9" pc="268435565" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreExercise.mc" lineNum="10" pc="268435575" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreExercise.mc" lineNum="11" pc="268435585" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="11" pc="268435596" symbol="countDownT"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="12" pc="268435600" symbol="countDownT"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="13" pc="268435628" symbol="countDownT"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="14" pc="268435669" symbol="countDownT"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="15" pc="268435682" symbol="countDownT"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="18" pc="268435699" symbol="decrementSeconds"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="19" pc="268435703" symbol="decrementSeconds"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="20" pc="268435722" symbol="decrementSeconds"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="21" pc="268435739" symbol="decrementSeconds"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="22" pc="268435757" symbol="decrementSeconds"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="23" pc="268435785" symbol="decrementSeconds"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="25" pc="268435860" symbol="decrementSeconds"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="27" pc="268435888" symbol="decrementSeconds"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="30" pc="268435905" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="31" pc="268435909" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="35" pc="268435928" symbol="onLayout"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="36" pc="268435932" symbol="onLayout"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="40" pc="268435970" symbol="onShow"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="44" pc="268435975" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="45" pc="268435979" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="46" pc="268435996" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="48" pc="268436019" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="49" pc="268436047" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="50" pc="268436059" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreStartupView.mc" lineNum="59" pc="268436170" symbol="onHide"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreDelegate.mc" lineNum="6" pc="268436175" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreDelegate.mc" lineNum="7" pc="268436179" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreDelegate.mc" lineNum="10" pc="268436198" symbol="onSelect"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreDelegate.mc" lineNum="11" pc="268436202" symbol="onSelect"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreDelegate.mc" lineNum="12" pc="268436219" symbol="onSelect"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreDelegate.mc" lineNum="13" pc="268436243" symbol="onSelect"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreDelegate.mc" lineNum="14" pc="268436255" symbol="onSelect"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreMenuDelegate.mc" lineNum="6" pc="268436272" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreMenuDelegate.mc" lineNum="7" pc="268436276" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreMenuDelegate.mc" lineNum="10" pc="268436295" symbol="onMenuItem"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreMenuDelegate.mc" lineNum="11" pc="268436299" symbol="onMenuItem"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreMenuDelegate.mc" lineNum="12" pc="268436310" symbol="onMenuItem"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreMenuDelegate.mc" lineNum="13" pc="268436334" symbol="onMenuItem"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreMenuDelegate.mc" lineNum="14" pc="268436345" symbol="onMenuItem"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="40" pc="268436370" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="41" pc="268436374" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="42" pc="268436392" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="43" pc="268436413" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="44" pc="268436448" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="45" pc="268436461" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="46" pc="268436481" symbol="initialize"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="50" pc="268436515" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="51" pc="268436519" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="52" pc="268436538" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="53" pc="268436556" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="54" pc="268436579" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="55" pc="268436611" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="56" pc="268436637" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="58" pc="268436668" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="60" pc="268436699" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="61" pc="268436754" symbol="handleTimer"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="66" pc="268436786" symbol="onLayout"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="67" pc="268436790" symbol="onLayout"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="68" pc="268436824" symbol="onLayout"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="69" pc="268436865" symbol="onLayout"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="70" pc="268436890" symbol="onLayout"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="71" pc="268436915" symbol="onLayout"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="77" pc="268436961" symbol="onShow"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="81" pc="268436966" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="83" pc="268436970" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="85" pc="268436990" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="86" pc="268437012" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="87" pc="268437038" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="88" pc="268437066" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="95" pc="268437225" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="103" pc="268437295" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="104" pc="268437321" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="105" pc="268437339" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="106" pc="268437367" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="107" pc="268437379" symbol="onUpdate"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="115" pc="268437464" symbol="drawProgress"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="116" pc="268437468" symbol="drawProgress"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="117" pc="268437490" symbol="drawProgress"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="118" pc="268437510" symbol="drawProgress"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="119" pc="268437532" symbol="drawProgress"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="120" pc="268437601" symbol="drawProgress"/>
+        <entry filename="/Users/Will/eclipse-workspace/PolyCore/./source/PolyCoreView.mc" lineNum="127" pc="268437619" symbol="onHide"/>
+        <entry filename="Rez" lineNum="18" pc="268437624" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="22" pc="268437636" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="23" pc="268437799" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="24" pc="268437824" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="25" pc="268437876" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="28" pc="268437922" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="16" symbol="numExercises"/>
+        <entry field="true" id="26" symbol="countDownTimer"/>
+        <entry field="true" id="19" symbol="totalTimer"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="27" method="true" symbol="countDownT"/>
+        <entry field="true" id="35" symbol="started"/>
+        <entry id="12" object="true" symbol="PolyCoreStartupView"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="29" symbol="symmetric"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="11" symbol="countDown"/>
+        <entry id="33" method="true" symbol="MainLayout"/>
+        <entry field="true" id="21" symbol="centerY"/>
+        <entry field="true" id="20" symbol="centerX"/>
+        <entry id="13" object="true" symbol="PolyCoreDelegate"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="24" method="true" symbol="handleTimer"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="34" symbol="AppName"/>
+        <entry id="9" object="true" symbol="PolyCoreApp"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry field="true" id="23" symbol="coreSet"/>
+        <entry id="10" object="true" symbol="PolyCoreExercise"/>
+        <entry id="37" symbol="item_2"/>
+        <entry id="36" symbol="item_1"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="32" symbol="LauncherIcon"/>
+        <entry id="15" object="true" symbol="PolyCoreView"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="22" symbol="radSquared"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="8389846" symbol="type"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry field="true" id="18" symbol="time"/>
+        <entry id="31" module="true" symbol="Layouts"/>
+        <entry id="28" method="true" symbol="decrementSeconds"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="25" method="true" symbol="drawProgress"/>
+        <entry field="true" id="17" symbol="exercises"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="30" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="14" object="true" symbol="PolyCoreMenuDelegate"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435596" name="t" stackId="1" startPc="268435561"/>
+        <entry endPc="268435596" name="s" stackId="3" startPc="268435561"/>
+        <entry endPc="268435596" name="n" stackId="2" startPc="268435561"/>
+        <entry endPc="268435970" name="dc" stackId="1" startPc="268435928"/>
+        <entry endPc="268436170" name="dc" stackId="1" startPc="268435975"/>
+        <entry endPc="268436268" name="countDownView" stackId="1" startPc="268436219"/>
+        <entry endPc="268436370" name="item" stackId="1" startPc="268436295"/>
+        <entry endPc="268436501" name="ex" stackId="3" startPc="268436413"/>
+        <entry endPc="268436501" name="rando" stackId="2" startPc="268436413"/>
+        <entry endPc="268436514" name="i" stackId="1" startPc="268436413"/>
+        <entry endPc="268436961" name="dc" stackId="1" startPc="268436786"/>
+        <entry endPc="268437464" name="dc" stackId="1" startPc="268436966"/>
+        <entry endPc="268437618" name="theta" stackId="3" startPc="268437468"/>
+        <entry endPc="268437619" name="dc" stackId="1" startPc="268437464"/>
+        <entry endPc="268437619" name="secs" stackId="2" startPc="268437464"/>
+        <entry endPc="268437939" name="rez_cmp_local_bitmap_443W11K21A_fontHeight" stackId="3" startPc="268437636"/>
+        <entry endPc="268437939" name="rez_cmp_local_bitmap_443W11K21A" stackId="2" startPc="268437636"/>
+        <entry endPc="268437940" name="dc" stackId="1" startPc="268437624"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="PolyCoreApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="PolyCoreApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="PolyCoreApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="PolyCoreApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PolyCoreExercise">
+            <param id="t"/>
+            <param id="n"/>
+            <param id="s"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="countDownT" parent="PolyCoreStartupView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="decrementSeconds" parent="PolyCoreStartupView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PolyCoreStartupView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="PolyCoreStartupView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="PolyCoreStartupView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PolyCoreStartupView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="PolyCoreStartupView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PolyCoreDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="PolyCoreDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PolyCoreMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="PolyCoreMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PolyCoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="handleTimer" parent="PolyCoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="PolyCoreView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="PolyCoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PolyCoreView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawProgress" parent="PolyCoreView">
+            <param id="dc"/>
+            <param id="secs"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="PolyCoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="238" parentId="globals" symbolId="PolyCoreApp" type="class"/>
+        <dataEntry offset="309" parentId="globals" symbolId="PolyCoreView" type="class"/>
+        <dataEntry offset="468" parentId="globals" symbolId="PolyCoreMenuDelegate" type="class"/>
+        <dataEntry offset="523" parentId="globals" symbolId="PolyCoreStartupView" type="class"/>
+        <dataEntry offset="626" parentId="globals" symbolId="PolyCoreExercise" type="class"/>
+        <dataEntry offset="697" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="776" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="815" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="846" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="877" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="908" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="947" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="986" parentId="globals" symbolId="PolyCoreDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
